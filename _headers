@@ -1,0 +1,8 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  X-Frame-Options: DENY
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=()
+  Cache-Control: no-cache
+  X-Robots-Tag: noindex, nofollow
+  Content-Security-Policy: default-src 'none'; script-src 'sha256-Ie7zVQ8QPaaZwpxOOqf+Zz+2L6MxJtLFmIDjxEeqkvw=' 'sha256-6kMSWJbx2XuKCAUc4mMVmY/ka3JqrR2m6rJzBf4Sh2o=' 'sha256-tmXL4wbL/hSUfqP/sBAEBA6Nyp3fYBYwjYguYgGt7KM=' 'sha256-CnrURlgEPt5cyVOcOBTe6x6gsp17v90elUYPokHpqLY='; style-src 'unsafe-inline'; img-src 'self' data: blob:; font-src 'none'; connect-src 'none'; manifest-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'
